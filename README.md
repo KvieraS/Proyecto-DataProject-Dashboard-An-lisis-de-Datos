@@ -29,7 +29,7 @@ Los objetivos principales de este proyecto son:
 ---
 
 ## 🗂️ Estructura del repositorio
-
+```text
 ├── README.md
 ├── Ventas_Juegos_EDA_Dashboard_panel_mejorado_final.xlsx
 ├── vgsales.csv
