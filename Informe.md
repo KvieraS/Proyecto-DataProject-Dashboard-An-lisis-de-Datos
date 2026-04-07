@@ -146,4 +146,3 @@ Este proyecto ha permitido aplicar las fases principales de un análisis de dato
 3. visualización  
 4. comunicación de resultados  
 
-El resultado final es un dashboard en Excel que resume de forma clara y visual la información más importante del dataset de ventas de videojuegos.
